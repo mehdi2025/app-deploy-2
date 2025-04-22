@@ -8,7 +8,7 @@ spec:
   source: 
   repoURL: https://github.com/mehdi2025/app-deploy-2.git
   targetRevision: HEAD
-  path: app-deploy-2
+  path: dev
 destination:
   server: https://kubernetes.default.svc
   namespace: myapp
